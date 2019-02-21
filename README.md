@@ -1,1 +1,1 @@
-Backend para aplicação clone do twitter
+Backend para aplicação clone do twitter, curso omnistack.
